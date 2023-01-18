@@ -1,0 +1,40 @@
+.toggle {
+  cursor: pointer;
+  display: flex;
+  border-radius: 50px;
+  width: 100px;
+  transition: .2s;
+  
+}
+
+.toggle i {
+  width: 50%;
+  text-align: center;
+  font-size: 30px;
+}
+
+input {
+  display: none;
+}
+
+
+/** HORA DE BRINCAR**/
+
+.sun {
+  color: red;
+  width: 50%;
+  text-align: center;
+  font-size: 30px;
+}
+.moon{
+  color: rgb(78, 78, 78);
+  width: 50%;
+  line-height: 60px;
+  text-align: center;
+  font-size: 30px;
+}
+.godpls{
+  margin-top: 2%;
+  margin-left: auto;
+  margin-right: auto;
+}
